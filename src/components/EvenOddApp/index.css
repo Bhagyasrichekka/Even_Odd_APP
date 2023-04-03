@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 100vh;
+}
+.btn {
+  height: 36px;
+  width: 130px;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 8px;
+}
